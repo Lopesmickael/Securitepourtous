@@ -1,0 +1,27 @@
+
+
+Objectif : Se proteger des sites web malicieux
+
+Actions : 
+- Installation de l'application 1.1.1.1
+- Configuration de l'application
+
+1/ Télécharger l'application 1.1.1.1
+
+Produit Apple : 
+Produit Android : 
+
+2/ Configuration de l'application
+
+Configuration pas à pas : 
+
+Ouvrir l'application
+
+2.1 / Configuration du systeme
+Choix entre DNS ou WARP
+En cours de test de mon coté si cela bloque l'accès aux banques ou autres sites
+
+2.2 / Configuration de la protection
+Aller dans "---" -> "Options de connexions" -> Paramètres DNS" -> 1.1.1.1 pour Familles et selectionner votre choix
+Bloques les logiciels malveillants
+Bloquer les logiciels malveillants et le contenu pour adultes
